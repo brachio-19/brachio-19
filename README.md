@@ -1,9 +1,9 @@
 ## Hey there
- I am Sakshi , a university student
- I wanna explore technology so im here.
- I am currently working on full stack development.
- I am working on learning electronics and robotics.
- :)
+ -I am Sakshi , a university student
+ -I wanna explore technology so im here.
+ -I am currently working on full stack development.
+ -I am working on learning electronics and robotics.
+ -:)
  
 
   
