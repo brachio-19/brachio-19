@@ -1,4 +1,13 @@
-## Hello I am Sakshi, this is my adventure into learning new things. I am on ground zero cuurently but ill see you up there soon.
+## Hey there
+ I am Sakshi , a university student
+ I wanna explore technology so im here.
+ I am currently working on full stack development.
+ I am working on learning electronics and robotics.
+ :)
+ 
+
+  
+- 
 
 <!--
 **brachio-19/brachio-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
