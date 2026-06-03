@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello I am Sakshi, this is my adventure into learning new things. I am on ground zero cuurently but ill see you up there soon.
 
 <!--
 **brachio-19/brachio-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
